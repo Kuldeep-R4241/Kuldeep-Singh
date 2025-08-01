@@ -1,8 +1,8 @@
-# Kuldeep-Singh
+
 <h1 align="center">Hi 👋, I'm Kuldeep Singh</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&center=true&vCenter=true&lines=Hi+There!+👋;I'm+Kuldeep+Singh;Backend+Engineer+%7C+Problem+Solver+%7C+Debugger" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&center=true&vCenter=true&lines=Hi+There!+👋;I'm+Kuldeep+Singh; Backend+Engineer+%7C+Problem+Solver+%7C+Debugger" />
 </p>
 
 <p align="center">
