@@ -10,10 +10,10 @@
 ## 🧑‍💻 About Me
 
 - 🔭 I’m currently working on **Spring Boot microservices, monitoring & performance**
-- 🌱 Learning more about **Kubernetes, CI/CD pipelines, and cloud architecture**
+- 🌱 Learning more about **Linux, CI/CD pipelines, and cloud architecture**
 - 🧠 I believe in solving problems, not just writing code
-- 💬 Ask me about: `Java`, `Spring Boot`, `MySQL`, `RabbitMQ`, `Docker`, `Prometheus`
-- 📫 Reach me at: **kuldeep@example.com**
+- 💬 Ask me about: `Java`, `Spring Boot`, `MySQL`,`Postgres`,`MSSQL` ,`RabbitMQ`, `Prometheus`
+- 📫 Reach me at: **Kuldeep.Singh@rosmertatech.co.in**
 - 🎯 Fun fact: I debug faster when I'm on mute in meetings 😅
 
 ---
@@ -21,7 +21,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,docker,kubernetes,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,github,linux" />
 </p>
 
 ---
@@ -49,21 +49,6 @@
 - 🔐 API security using **JWT** and **Spring Security**
 - 📡 Messaging queue performance with **RabbitMQ**
 
----
-
-## 🛰️ GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kuldeepsingh&theme=tokyo-night&area=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 ---
 
@@ -73,10 +58,10 @@
   <a href="https://www.linkedin.com/in/kuldeepsingh" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:kuldeep@example.com">
+  <a href="mailto:kuldeep.singh@rosmertatech.co.in">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/kuldeepsingh" target="_blank">
+  <a href="https://github.com/Kuldeep-R4241" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
