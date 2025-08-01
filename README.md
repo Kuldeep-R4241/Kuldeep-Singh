@@ -51,18 +51,18 @@
 
 ---
 
-## 🛰️ Activity Graph
+## 🛰️ GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=kuldeepsingh&theme=react-dark&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kuldeepsingh&theme=tokyo-night&area=true" />
 </p>
 
 ---
 
-## 🐍 GitHub Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
